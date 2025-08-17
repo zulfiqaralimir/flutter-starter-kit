@@ -1,7 +1,10 @@
 # flutter-starter-kit
 My beginner Flutter project — exploring layouts, state management, and Flutter basics. A practice repo for learning Flutter step by step.
 
-![Flutter Logo](https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg)
+<p align="center">
+  <img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg" width="150">
+</p>
+
 
 # 🔽 Where to Download Flutter SDK
 
