@@ -2,7 +2,7 @@
 My beginner Flutter project — exploring layouts, state management, and Flutter basics. A practice repo for learning Flutter step by step.
 
 <p align="center">
-  <img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg" width="200">
+  <img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg" width="300">
 </p>
 
 
