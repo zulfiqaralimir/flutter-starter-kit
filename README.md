@@ -27,3 +27,43 @@ Once you’ve downloaded and extracted the `Flutter` SDK, you need to set the PA
 
 C:\src\flutter
 
+
+---
+
+## 2. Add Flutter to PATH
+1. Press **Win + R**, type `sysdm.cpl`, and press Enter.  
+2. Go to **Advanced** → **Environment Variables**.  
+3. Under **System variables**, find and select `Path`, then click **Edit**.  
+4. Click **New** and add the Flutter `bin` path:
+
+C:\src\flutter\bin
+
+5. Click **OK** to save and close all dialogs.
+
+---
+
+## 3. Verify Installation
+Open **Command Prompt** or **PowerShell** and run:
+```bash
+flutter --version
+5. Click **OK** to save and close all dialogs.
+
+---
+
+## 3. Verify Installation
+Open **Command Prompt** or **PowerShell** and run:
+```bash
+flutter --version
+
+✅ You should see the installed Flutter version.
+
+### 4. Run Flutter Doctor
+
+Check for any remaining setup steps:
+
+``flutter doctor``
+
+This will tell you if Android Studio, device SDKs, or other tools are missing.
+
+
+
